@@ -27,4 +27,4 @@ Your script should take one argument <input.csv> and produce a file with the sol
 
 ### Example:
 
-$ solver.py input.csv
+$ python solver.py input.csv
