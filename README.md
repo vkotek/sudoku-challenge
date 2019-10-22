@@ -6,7 +6,7 @@ Welcome to the Sudoku Challenge!
 - Create a program to solve Sudoku puzzles
 
 ### Input:
-- CSV file with one columns "puzzle" Generate it [here](https://qqwing.com/generate.html)
+- CSV file with one columns "puzzle". Generate it [here](https://qqwing.com/generate.html).
 
 ```csv
 Puzzle,
@@ -14,7 +14,7 @@ Puzzle,
 ```
 
 ### Output:
-- CSV file with the solution
+- CSV file with the solution.
 
 ```csv
 Solution,
@@ -23,4 +23,8 @@ Solution,
 
 ### Instructions:
 
-TBD
+Your script should take one argument <input.csv> and produce a file with the solution <output.csv>
+
+### Example:
+
+$ solver.py input.csv
